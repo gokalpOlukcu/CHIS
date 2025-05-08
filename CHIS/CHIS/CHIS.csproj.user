@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="administratorsUsersDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="allPatientInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="baseScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="healthSecretary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="medical_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="patientLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pediatrician.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pediatricianChief-Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pediatricianChief.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PediatricianChiefUserDatabases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pediatricianManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PediatricianUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="personelLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pharmacist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pharmacistManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PharmacistUsersDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secrateryUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secretaryManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="systemadmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

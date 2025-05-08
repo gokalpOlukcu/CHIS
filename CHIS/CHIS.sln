@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHIS", "CHIS\CHIS.csproj", "{EB0701B8-4A0E-4C00-BC28-FFE7D168C60E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{1F786309-C07D-4830-9F97-066949D697A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0701B8-4A0E-4C00-BC28-FFE7D168C60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0701B8-4A0E-4C00-BC28-FFE7D168C60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0701B8-4A0E-4C00-BC28-FFE7D168C60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0701B8-4A0E-4C00-BC28-FFE7D168C60E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
